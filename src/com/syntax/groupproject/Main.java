@@ -15,5 +15,12 @@ public class Main {
         Xfact.color="green";
         Xfact.radius="1000000000km";
         Xfact.heat="309324934898kj";
+
+        FeatureStars Xfact= new FeatureStars();
+        Xfact.color=green;
+        Xfact.size="1234567";
+
+
+
     }
 }
