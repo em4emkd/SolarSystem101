@@ -18,7 +18,7 @@ public class Main {
 
         FeatureStars fs = new FeatureStars();
         fs.size="5";
-        fs.color=red;
+        fs.color="red";
         fs.radius="1";
     }
 }
